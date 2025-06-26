@@ -1,0 +1,262 @@
+[24-May-2025 16:15:56 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 22
+[24-May-2025 16:19:37 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 22
+[24-May-2025 16:27:46 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[24-May-2025 16:28:46 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[24-May-2025 16:29:07 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[24-May-2025 16:30:17 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[24-May-2025 16:31:08 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[24-May-2025 16:31:48 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[24-May-2025 16:47:35 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[24-May-2025 18:34:24 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[24-May-2025 18:35:09 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[24-May-2025 19:00:42 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[24-May-2025 20:41:48 Asia/Manila] PHP Notice:  Undefined index: event_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 146
+[24-May-2025 20:41:48 Asia/Manila] PHP Notice:  Undefined index: event_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 152
+[24-May-2025 20:41:48 Asia/Manila] PHP Notice:  Undefined index: name in /home/noornet/event.noor-united.net/event/classes/Master.php on line 155
+[24-May-2025 20:42:55 Asia/Manila] PHP Notice:  Undefined index: event_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 146
+[24-May-2025 20:42:55 Asia/Manila] PHP Notice:  Undefined index: name in /home/noornet/event.noor-united.net/event/classes/Master.php on line 149
+[24-May-2025 20:50:03 Asia/Manila] PHP Notice:  Undefined index: name in /home/noornet/event.noor-united.net/event/classes/Master.php on line 156
+[24-May-2025 22:13:46 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 20
+[24-May-2025 22:13:46 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 55
+[24-May-2025 22:17:40 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 20
+[24-May-2025 22:17:40 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 53
+[24-May-2025 22:19:11 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 20
+[24-May-2025 22:21:19 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 20
+[25-May-2025 16:02:04 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[25-May-2025 16:03:38 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 23
+[25-May-2025 16:03:53 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 23
+[25-May-2025 16:04:29 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 23
+[25-May-2025 16:04:29 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 28
+[25-May-2025 16:08:26 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 23
+[25-May-2025 17:04:07 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[25-May-2025 17:08:02 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[25-May-2025 17:36:39 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[25-May-2025 18:15:09 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[25-May-2025 18:15:35 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[26-May-2025 18:10:37 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[26-May-2025 18:40:15 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[26-May-2025 18:57:38 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 20
+[26-May-2025 19:00:16 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 20
+[26-May-2025 20:11:21 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[26-May-2025 20:25:32 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 20
+[26-May-2025 20:29:04 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 20
+[26-May-2025 20:29:04 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function print_() in /home/noornet/event.noor-united.net/event/classes/Master.php:85
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/Master.php(57): Master->send_whatsapp_message('https://event.n...', '[3,7,10]')
+#1 /home/noornet/event.noor-united.net/event/classes/Master.php(212): Master->save_event()
+#2 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/Master.php on line 85
+[26-May-2025 20:29:53 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 20
+[26-May-2025 20:30:44 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 20
+[26-May-2025 20:30:44 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function send_whatsapp_message() in /home/noornet/event.noor-united.net/event/classes/Master.php:57
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/Master.php(212): Master->save_event()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/Master.php on line 57
+[26-May-2025 20:33:00 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 20
+[26-May-2025 20:48:05 Asia/Manila] PHP Notice:  Array to string conversion in /home/noornet/event.noor-united.net/event/classes/Master.php on line 89
+[26-May-2025 21:03:36 Asia/Manila] PHP Notice:  Array to string conversion in /home/noornet/event.noor-united.net/event/classes/Master.php on line 103
+[26-May-2025 21:40:25 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[26-May-2025 23:02:03 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[26-May-2025 23:02:10 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[26-May-2025 23:05:40 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 21
+[26-May-2025 23:05:40 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/noornet/event.noor-united.net/event/classes/Master.php on line 88
+[26-May-2025 23:05:40 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/classes/Master.php on line 90
+[26-May-2025 23:05:40 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/Master.php:102
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/Master.php(58): Master->send_whatsapp_message('https://event.n...', '[12,11]')
+#1 /home/noornet/event.noor-united.net/event/classes/Master.php(227): Master->save_event()
+#2 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/Master.php on line 102
+[26-May-2025 23:06:56 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 21
+[26-May-2025 23:07:28 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 21
+[26-May-2025 23:08:57 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 21
+[26-May-2025 23:08:57 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/noornet/event.noor-united.net/event/classes/Master.php on line 88
+[26-May-2025 23:08:57 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/classes/Master.php on line 90
+[26-May-2025 23:08:57 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/Master.php:102
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/Master.php(58): Master->send_whatsapp_message('https://event.n...', '[12,11]')
+#1 /home/noornet/event.noor-united.net/event/classes/Master.php(227): Master->save_event()
+#2 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/Master.php on line 102
+[26-May-2025 23:10:20 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 21
+[26-May-2025 23:12:09 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 21
+[26-May-2025 23:12:09 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/noornet/event.noor-united.net/event/classes/Master.php on line 88
+[26-May-2025 23:12:09 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/classes/Master.php on line 90
+[26-May-2025 23:13:08 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 22
+[26-May-2025 23:13:08 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/noornet/event.noor-united.net/event/classes/Master.php on line 89
+[26-May-2025 23:13:08 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/classes/Master.php on line 91
+[26-May-2025 23:14:08 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 22
+[26-May-2025 23:14:08 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/noornet/event.noor-united.net/event/classes/Master.php on line 90
+[26-May-2025 23:14:08 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/classes/Master.php on line 92
+[26-May-2025 23:15:12 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 22
+[26-May-2025 23:15:12 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/noornet/event.noor-united.net/event/classes/Master.php on line 90
+[26-May-2025 23:15:12 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/classes/Master.php on line 92
+[26-May-2025 23:16:41 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 22
+[26-May-2025 23:16:41 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/noornet/event.noor-united.net/event/classes/Master.php on line 89
+[26-May-2025 23:16:41 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/classes/Master.php on line 92
+[26-May-2025 23:18:01 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 22
+[26-May-2025 23:21:36 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[26-May-2025 23:23:26 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[26-May-2025 23:24:21 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[26-May-2025 23:27:21 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[26-May-2025 23:28:09 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[26-May-2025 23:28:21 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[26-May-2025 23:28:44 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[26-May-2025 23:28:59 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[26-May-2025 23:30:01 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[26-May-2025 23:31:00 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[27-May-2025 16:12:14 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[05-Jun-2025 05:37:45 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[05-Jun-2025 06:17:07 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 06:17:07 Asia/Manila] PHP Notice:  Undefined variable: event_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 63
+[05-Jun-2025 06:19:56 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 06:28:58 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 06:30:32 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 06:30:32 Asia/Manila] PHP Notice:  Undefined variable: event_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 63
+[05-Jun-2025 06:32:51 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 06:32:51 Asia/Manila] PHP Notice:  Undefined variable: event_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 63
+[05-Jun-2025 06:38:53 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 06:40:48 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 06:40:48 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 63
+[05-Jun-2025 06:42:44 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 06:42:44 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 63
+[05-Jun-2025 06:44:32 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 06:44:32 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 63
+[05-Jun-2025 06:46:28 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 06:46:29 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 63
+[05-Jun-2025 06:46:29 Asia/Manila] PHP Notice:  Undefined variable: fallback in /home/noornet/event.noor-united.net/event/classes/Master.php on line 93
+[05-Jun-2025 06:50:04 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 06:50:04 Asia/Manila] PHP Notice:  Undefined variable: fallback in /home/noornet/event.noor-united.net/event/classes/Master.php on line 94
+[05-Jun-2025 15:00:43 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[05-Jun-2025 15:03:33 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 15:04:14 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 15:05:56 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 15:11:16 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 15:12:02 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 15:12:03 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":3}
+[05-Jun-2025 15:12:05 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":4}
+[05-Jun-2025 15:48:20 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[05-Jun-2025 07:49:00 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/noornet/event.noor-united.net/event/classes/Master.php on line 133
+[05-Jun-2025 15:50:43 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 15:52:42 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 15:53:46 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 15:53:48 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":5}
+[05-Jun-2025 15:53:49 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":6}
+[05-Jun-2025 16:15:50 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[05-Jun-2025 16:17:38 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 16:17:38 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 108
+[05-Jun-2025 16:17:40 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":7}
+[05-Jun-2025 16:17:41 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":8}
+[05-Jun-2025 16:25:18 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 16:25:18 Asia/Manila] PHP Notice:  Undefined variable: decline_link in /home/noornet/event.noor-united.net/event/classes/Master.php on line 116
+[05-Jun-2025 16:25:18 Asia/Manila] PHP Notice:  Undefined index: user_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 130
+[05-Jun-2025 16:25:20 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":9}
+[05-Jun-2025 16:25:20 Asia/Manila] PHP Notice:  Undefined index: user_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 130
+[05-Jun-2025 16:25:21 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":10}
+[05-Jun-2025 16:30:05 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[05-Jun-2025 16:30:06 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":11}
+[05-Jun-2025 16:30:07 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":12}
+[05-Jun-2025 16:30:08 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":13}
+[06-Jun-2025 01:26:35 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[11-Jun-2025 16:24:26 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[11-Jun-2025 16:25:57 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[11-Jun-2025 16:25:58 Asia/Manila] WhatsApp response: {"error":"Your instance has been Stopped due to non-payment. you can activate this instance by extending your subscription. Payment information updates every 5 minutes."}
+[11-Jun-2025 16:28:59 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[11-Jun-2025 16:30:26 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[11-Jun-2025 16:32:20 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[11-Jun-2025 16:32:42 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[11-Jun-2025 16:33:04 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[11-Jun-2025 16:38:44 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[11-Jun-2025 16:40:27 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[11-Jun-2025 16:42:08 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[11-Jun-2025 16:42:08 Asia/Manila] WhatsApp response: {"error":"Your instance has been Stopped due to non-payment. you can activate this instance by extending your subscription. Payment information updates every 5 minutes."}
+[11-Jun-2025 16:42:59 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[11-Jun-2025 16:45:41 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[11-Jun-2025 17:06:25 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[11-Jun-2025 17:07:38 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[11-Jun-2025 17:07:39 Asia/Manila] WhatsApp response: {"error":"Your instance has been Stopped due to non-payment. you can activate this instance by extending your subscription. Payment information updates every 5 minutes."}
+[11-Jun-2025 17:07:40 Asia/Manila] WhatsApp response: {"error":"Your instance has been Stopped due to non-payment. you can activate this instance by extending your subscription. Payment information updates every 5 minutes."}
+[11-Jun-2025 17:07:40 Asia/Manila] WhatsApp response: {"error":"Your instance has been Stopped due to non-payment. you can activate this instance by extending your subscription. Payment information updates every 5 minutes."}
+[11-Jun-2025 17:07:41 Asia/Manila] WhatsApp response: {"error":"Your instance has been Stopped due to non-payment. you can activate this instance by extending your subscription. Payment information updates every 5 minutes."}
+[11-Jun-2025 18:16:34 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[11-Jun-2025 18:48:24 Asia/Manila] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/noornet/event.noor-united.net/event/classes/Master.php on line 267
+[11-Jun-2025 18:48:24 Asia/Manila] PHP Warning:  addslashes() expects parameter 1 to be string, array given in /home/noornet/event.noor-united.net/event/classes/Master.php on line 267
+[12-Jun-2025 00:20:47 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[12-Jun-2025 02:25:29 Asia/Manila] PHP Notice:  Undefined variable: sql in /home/noornet/event.noor-united.net/event/classes/Master.php on line 340
+[12-Jun-2025 02:26:56 Asia/Manila] PHP Notice:  Undefined variable: sql in /home/noornet/event.noor-united.net/event/classes/Master.php on line 340
+[12-Jun-2025 02:36:58 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/noornet/event.noor-united.net/event/classes/Master.php on line 322
+[12-Jun-2025 02:36:58 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/noornet/event.noor-united.net/event/classes/Master.php on line 322
+[12-Jun-2025 02:40:51 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/noornet/event.noor-united.net/event/classes/Master.php on line 322
+[12-Jun-2025 02:40:51 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/noornet/event.noor-united.net/event/classes/Master.php on line 322
+[12-Jun-2025 02:41:42 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/noornet/event.noor-united.net/event/classes/Master.php on line 322
+[12-Jun-2025 02:41:42 Asia/Manila] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/noornet/event.noor-united.net/event/classes/Master.php on line 322
+[12-Jun-2025 17:08:44 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[12-Jun-2025 18:02:40 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 18:10:17 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 18:10:17 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/classes/Master.php on line 65
+[12-Jun-2025 18:11:46 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 18:11:46 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/classes/Master.php on line 65
+[12-Jun-2025 18:34:33 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 18:34:35 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":1}
+[12-Jun-2025 18:34:36 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":2}
+[12-Jun-2025 18:39:27 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 18:40:32 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 18:41:52 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 18:42:30 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 18:42:30 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/classes/Master.php on line 44
+[12-Jun-2025 18:42:36 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 18:42:36 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/classes/Master.php on line 44
+[12-Jun-2025 18:42:52 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 18:43:25 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 18:43:25 Asia/Manila] PHP Notice:  Undefined variable: event_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 45
+[12-Jun-2025 18:43:25 Asia/Manila] PHP Notice:  Undefined variable: event_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 45
+[12-Jun-2025 18:43:58 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 18:52:07 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 18:52:08 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":3}
+[12-Jun-2025 18:53:34 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 18:53:34 Asia/Manila] PHP Notice:  Undefined variable: sql in /home/noornet/event.noor-united.net/event/classes/Master.php on line 42
+[12-Jun-2025 19:01:02 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 19:01:02 Asia/Manila] PHP Notice:  Undefined variable: sql in /home/noornet/event.noor-united.net/event/classes/Master.php on line 42
+[12-Jun-2025 19:02:09 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 19:07:45 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 19:19:55 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 19:38:25 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 19:39:53 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[12-Jun-2025 19:48:23 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 19:49:40 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 22:11:10 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[12-Jun-2025 22:41:11 Asia/Manila] PHP Notice:  Undefined variable: password in /home/noornet/event.noor-united.net/event/classes/Login.php on line 70
+[12-Jun-2025 22:41:15 Asia/Manila] PHP Notice:  Undefined variable: password in /home/noornet/event.noor-united.net/event/classes/Login.php on line 70
+[12-Jun-2025 22:45:35 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[12-Jun-2025 22:53:52 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[12-Jun-2025 23:00:46 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[12-Jun-2025 23:00:46 Asia/Manila] WhatsApp response: {"error":[{"to":"Wrong 'to' format for element (22222). 'to' format : 14155552671@c.us or 14155552671-441234567890@g.us"}]}
+[12-Jun-2025 23:00:47 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":4}
+[12-Jun-2025 23:19:50 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:19:51 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:19:53 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:19:54 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:19:56 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:19:57 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:19:59 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:20:00 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:20:02 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:20:04 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:20:06 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:20:06 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:20:09 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:20:10 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:20:12 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:20:13 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:20:14 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:20:15 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:20:17 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:20:19 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:20:21 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:20:21 Asia/Manila] PHP Notice:  Undefined variable: last_id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 513
+[12-Jun-2025 23:25:19 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[13-Jun-2025 01:02:33 Asia/Manila] PHP Notice:  Undefined variable: manager in /home/noornet/event.noor-united.net/event/classes/Login.php on line 21
+[13-Jun-2025 01:08:27 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/classes/Master.php on line 23
+[13-Jun-2025 01:08:28 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":5}
+[13-Jun-2025 01:08:29 Asia/Manila] WhatsApp response: {"sent":"true","message":"ok","id":6}

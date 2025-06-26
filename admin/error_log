@@ -1,0 +1,429 @@
+[18-May-2025 15:36:45 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:45 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:45 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:45 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/admin/home.php on line 12
+[18-May-2025 15:36:45 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/noornet/event.noor-united.net/event/admin/home.php on line 12
+[18-May-2025 15:36:45 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/admin/home.php on line 26
+[18-May-2025 15:36:45 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/noornet/event.noor-united.net/event/admin/home.php on line 26
+[18-May-2025 15:36:45 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/admin/home.php on line 43
+[18-May-2025 15:36:45 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/noornet/event.noor-united.net/event/admin/home.php on line 43
+[18-May-2025 15:36:45 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/admin/home.php on line 56
+[18-May-2025 15:36:45 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/noornet/event.noor-united.net/event/admin/home.php on line 56
+[18-May-2025 15:36:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:19 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:19 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:19 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:19 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/admin/home.php on line 12
+[18-May-2025 15:41:19 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/noornet/event.noor-united.net/event/admin/home.php on line 12
+[18-May-2025 15:41:19 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/admin/home.php on line 26
+[18-May-2025 15:41:19 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/noornet/event.noor-united.net/event/admin/home.php on line 26
+[18-May-2025 15:41:19 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/admin/home.php on line 43
+[18-May-2025 15:41:19 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/noornet/event.noor-united.net/event/admin/home.php on line 43
+[18-May-2025 15:41:19 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/admin/home.php on line 56
+[18-May-2025 15:41:19 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/noornet/event.noor-united.net/event/admin/home.php on line 56
+[18-May-2025 15:41:20 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:20 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:20 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[19-May-2025 01:49:52 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/admin/user/index.php on line 3
+[22-May-2025 16:27:29 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/audience/index.php:29
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/admin/index.php(37): include()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/audience/index.php on line 29
+[22-May-2025 16:27:33 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/audience/index.php:29
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/admin/index.php(37): include()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/audience/index.php on line 29
+[22-May-2025 16:27:57 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/audience/index.php:29
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/admin/index.php(37): include()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/audience/index.php on line 29
+[22-May-2025 16:28:00 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/audience/index.php:29
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/admin/index.php(37): include()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/audience/index.php on line 29
+[22-May-2025 16:28:07 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/audience/index.php:29
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/admin/index.php(37): include()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/audience/index.php on line 29
+[24-May-2025 21:48:50 Asia/Manila] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/noornet/event.noor-united.net/event/admin/reports/index.php:101
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/admin/index.php(37): include()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/reports/index.php on line 101
+[24-May-2025 21:48:57 Asia/Manila] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/noornet/event.noor-united.net/event/admin/reports/index.php:101
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/admin/index.php(37): include()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/reports/index.php on line 101
+[24-May-2025 21:49:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/noornet/event.noor-united.net/event/admin/reports/index.php:101
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/admin/index.php(37): include()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/reports/index.php on line 101
+[24-May-2025 21:50:24 Asia/Manila] PHP Notice:  Undefined index: email in /home/noornet/event.noor-united.net/event/admin/reports/index.php on line 110
+[24-May-2025 21:50:24 Asia/Manila] PHP Notice:  Undefined index: remarks in /home/noornet/event.noor-united.net/event/admin/reports/index.php on line 111
+[24-May-2025 21:50:24 Asia/Manila] PHP Notice:  Undefined index: email in /home/noornet/event.noor-united.net/event/admin/reports/index.php on line 110
+[24-May-2025 21:50:24 Asia/Manila] PHP Notice:  Undefined index: remarks in /home/noornet/event.noor-united.net/event/admin/reports/index.php on line 111
+[25-May-2025 16:52:02 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 20
+[25-May-2025 16:52:08 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 20
+[25-May-2025 16:52:17 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 20
+[25-May-2025 16:54:15 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 20
+[25-May-2025 16:55:30 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 20
+[25-May-2025 16:55:30 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 10
+[25-May-2025 16:56:30 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 20
+[25-May-2025 16:56:30 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 7
+[25-May-2025 16:57:08 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 19
+[25-May-2025 16:57:08 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 22
+[25-May-2025 16:57:08 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 7
+[25-May-2025 16:57:17 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 19
+[25-May-2025 16:57:17 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 22
+[25-May-2025 16:57:17 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 7
+[25-May-2025 16:57:47 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 21
+[25-May-2025 16:57:47 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 7
+[25-May-2025 17:03:26 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 21
+[25-May-2025 17:10:47 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 12
+[25-May-2025 17:12:05 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 12
+[25-May-2025 17:12:13 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 12
+[25-May-2025 17:12:22 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 12
+[25-May-2025 17:12:40 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 12
+[25-May-2025 17:15:09 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 21
+[25-May-2025 17:17:52 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 21
+[25-May-2025 17:18:41 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 21
+[25-May-2025 17:21:49 Asia/Manila] PHP Notice:  Undefined index: login_type in /home/noornet/event.noor-united.net/event/admin/inc/sess_auth.php on line 21
+[25-May-2025 17:22:52 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 10
+[25-May-2025 17:24:35 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 10
+[26-May-2025 16:29:06 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[26-May-2025 16:29:06 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[26-May-2025 16:29:06 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[26-May-2025 16:29:06 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[26-May-2025 16:29:06 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[26-May-2025 16:29:06 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[26-May-2025 16:29:06 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[26-May-2025 16:29:06 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[26-May-2025 16:29:06 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 56
+[26-May-2025 16:29:06 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 56
+[26-May-2025 16:50:37 Asia/Manila] PHP Notice:  Undefined variable: sql in /home/noornet/event.noor-united.net/event/admin/event/index.php on line 10
+[26-May-2025 16:50:41 Asia/Manila] PHP Notice:  Undefined variable: sql in /home/noornet/event.noor-united.net/event/admin/event/index.php on line 10
+[26-May-2025 16:51:20 Asia/Manila] PHP Notice:  Undefined variable: sql in /home/noornet/event.noor-united.net/event/admin/event/index.php on line 12
+[26-May-2025 17:00:06 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/noornet/event.noor-united.net/event/admin/event/index.php on line 144
+[26-May-2025 17:22:26 Asia/Manila] PHP Notice:  Undefined property: SystemSettings::$userdata in /home/noornet/event.noor-united.net/event/admin/user/list.php on line 10
+[26-May-2025 17:22:32 Asia/Manila] PHP Notice:  Undefined property: SystemSettings::$userdata in /home/noornet/event.noor-united.net/event/admin/user/list.php on line 10
+[26-May-2025 22:44:54 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[26-May-2025 22:44:54 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[26-May-2025 22:44:54 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[26-May-2025 22:44:54 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[26-May-2025 22:44:54 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[26-May-2025 22:44:54 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[26-May-2025 22:44:54 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[26-May-2025 22:44:54 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[26-May-2025 22:44:54 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[26-May-2025 22:44:54 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[26-May-2025 23:01:54 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[26-May-2025 23:01:54 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[26-May-2025 23:01:54 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[26-May-2025 23:01:54 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[26-May-2025 23:01:54 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[26-May-2025 23:01:54 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[26-May-2025 23:01:54 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[26-May-2025 23:01:54 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[26-May-2025 23:01:54 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[26-May-2025 23:01:54 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[27-May-2025 16:12:08 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[27-May-2025 16:12:08 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[27-May-2025 16:12:08 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[27-May-2025 16:12:08 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[27-May-2025 16:12:08 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[27-May-2025 16:12:08 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[27-May-2025 16:12:08 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[27-May-2025 16:12:08 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[27-May-2025 16:12:08 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[27-May-2025 16:12:08 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[29-May-2025 16:07:56 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[29-May-2025 16:07:56 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[29-May-2025 16:07:56 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[29-May-2025 16:07:56 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[29-May-2025 16:07:56 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[29-May-2025 16:07:56 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[29-May-2025 16:07:56 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[29-May-2025 16:07:56 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[29-May-2025 16:07:56 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[29-May-2025 16:07:56 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[29-May-2025 16:12:16 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[29-May-2025 16:12:16 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[29-May-2025 16:12:16 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[29-May-2025 16:12:16 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[29-May-2025 16:12:16 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[29-May-2025 16:12:16 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[29-May-2025 16:12:16 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[29-May-2025 16:12:16 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[29-May-2025 16:12:16 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[29-May-2025 16:12:16 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[05-Jun-2025 05:37:40 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[05-Jun-2025 05:37:40 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[05-Jun-2025 05:37:40 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[05-Jun-2025 05:37:40 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[05-Jun-2025 05:37:40 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[05-Jun-2025 05:37:40 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[05-Jun-2025 05:37:40 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[05-Jun-2025 05:37:40 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[05-Jun-2025 05:37:40 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[05-Jun-2025 05:37:40 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[05-Jun-2025 15:00:39 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[05-Jun-2025 15:00:39 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[05-Jun-2025 15:00:39 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[05-Jun-2025 15:00:39 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[05-Jun-2025 15:00:39 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[05-Jun-2025 15:00:39 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[05-Jun-2025 15:00:39 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[05-Jun-2025 15:00:39 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[05-Jun-2025 15:00:39 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[05-Jun-2025 15:00:39 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[05-Jun-2025 15:48:14 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[05-Jun-2025 15:48:14 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[05-Jun-2025 15:48:14 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[05-Jun-2025 15:48:14 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[05-Jun-2025 15:48:14 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[05-Jun-2025 15:48:14 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[05-Jun-2025 15:48:14 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[05-Jun-2025 15:48:14 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[05-Jun-2025 15:48:14 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[05-Jun-2025 15:48:14 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[05-Jun-2025 16:15:42 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[05-Jun-2025 16:15:42 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[05-Jun-2025 16:15:42 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[05-Jun-2025 16:15:42 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[05-Jun-2025 16:15:42 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[05-Jun-2025 16:15:42 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[05-Jun-2025 16:15:42 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[05-Jun-2025 16:15:42 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[05-Jun-2025 16:15:42 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[05-Jun-2025 16:15:42 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[06-Jun-2025 01:26:31 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[06-Jun-2025 01:26:31 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[06-Jun-2025 01:26:31 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[06-Jun-2025 01:26:31 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[06-Jun-2025 01:26:31 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[06-Jun-2025 01:26:31 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[06-Jun-2025 01:26:31 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[06-Jun-2025 01:26:31 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[06-Jun-2025 01:26:31 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[06-Jun-2025 01:26:31 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[11-Jun-2025 16:28:51 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[11-Jun-2025 16:28:51 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[11-Jun-2025 16:28:51 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[11-Jun-2025 16:28:51 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[11-Jun-2025 16:28:51 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[11-Jun-2025 16:28:51 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[11-Jun-2025 16:28:51 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[11-Jun-2025 16:28:51 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[11-Jun-2025 16:28:51 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[11-Jun-2025 16:28:51 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[11-Jun-2025 16:30:22 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[11-Jun-2025 16:30:22 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[11-Jun-2025 16:30:22 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[11-Jun-2025 16:30:22 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[11-Jun-2025 16:30:22 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[11-Jun-2025 16:30:22 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[11-Jun-2025 16:30:22 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[11-Jun-2025 16:30:22 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[11-Jun-2025 16:30:22 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[11-Jun-2025 16:30:22 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[11-Jun-2025 16:32:59 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[11-Jun-2025 16:32:59 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[11-Jun-2025 16:32:59 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[11-Jun-2025 16:32:59 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[11-Jun-2025 16:32:59 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[11-Jun-2025 16:32:59 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[11-Jun-2025 16:32:59 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[11-Jun-2025 16:32:59 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[11-Jun-2025 16:32:59 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[11-Jun-2025 16:32:59 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[11-Jun-2025 16:40:22 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[11-Jun-2025 16:40:22 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[11-Jun-2025 16:40:22 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[11-Jun-2025 16:40:22 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[11-Jun-2025 16:40:22 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[11-Jun-2025 16:40:22 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[11-Jun-2025 16:40:22 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[11-Jun-2025 16:40:22 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[11-Jun-2025 16:40:22 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[11-Jun-2025 16:40:22 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[11-Jun-2025 16:42:40 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[11-Jun-2025 16:42:40 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[11-Jun-2025 16:42:40 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[11-Jun-2025 16:42:40 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[11-Jun-2025 16:42:40 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[11-Jun-2025 16:42:40 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[11-Jun-2025 16:42:40 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[11-Jun-2025 16:42:40 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[11-Jun-2025 16:42:40 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[11-Jun-2025 16:42:40 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[11-Jun-2025 17:06:18 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[11-Jun-2025 17:06:18 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[11-Jun-2025 17:06:18 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[11-Jun-2025 17:06:18 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[11-Jun-2025 17:06:18 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[11-Jun-2025 17:06:18 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[11-Jun-2025 17:06:18 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[11-Jun-2025 17:06:18 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[11-Jun-2025 17:06:18 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[11-Jun-2025 17:06:18 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[11-Jun-2025 18:16:27 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[11-Jun-2025 18:16:27 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[11-Jun-2025 18:16:27 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[11-Jun-2025 18:16:27 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[11-Jun-2025 18:16:27 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[11-Jun-2025 18:16:27 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[11-Jun-2025 18:16:27 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[11-Jun-2025 18:16:27 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[11-Jun-2025 18:16:27 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[11-Jun-2025 18:16:27 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[11-Jun-2025 18:41:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/audience/index.php:36
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/admin/index.php(39): include()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/audience/index.php on line 36
+[11-Jun-2025 18:43:07 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/audience/index.php:36
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/admin/index.php(39): include()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/audience/index.php on line 36
+[11-Jun-2025 18:43:11 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/audience/index.php:36
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/admin/index.php(39): include()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/audience/index.php on line 36
+[12-Jun-2025 00:20:43 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[12-Jun-2025 00:20:43 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[12-Jun-2025 00:20:43 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[12-Jun-2025 00:20:43 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[12-Jun-2025 00:20:43 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[12-Jun-2025 00:20:43 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[12-Jun-2025 00:20:43 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[12-Jun-2025 00:20:43 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[12-Jun-2025 00:20:43 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 74
+[12-Jun-2025 00:20:43 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 74
+[12-Jun-2025 17:08:38 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[12-Jun-2025 17:08:38 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[12-Jun-2025 17:08:38 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[12-Jun-2025 17:08:38 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[12-Jun-2025 17:08:38 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[12-Jun-2025 17:08:38 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[12-Jun-2025 17:08:38 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[12-Jun-2025 17:08:38 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[12-Jun-2025 17:08:38 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 74
+[12-Jun-2025 17:08:38 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 74
+[12-Jun-2025 22:11:05 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[12-Jun-2025 22:11:05 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[12-Jun-2025 22:11:05 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[12-Jun-2025 22:11:05 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[12-Jun-2025 22:11:05 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[12-Jun-2025 22:11:05 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[12-Jun-2025 22:11:05 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[12-Jun-2025 22:11:05 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[12-Jun-2025 22:11:05 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 74
+[12-Jun-2025 22:11:05 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 74
+[12-Jun-2025 22:11:05 Asia/Manila] PHP Notice:  Undefined variable: sql in /home/noornet/event.noor-united.net/event/admin/event/index.php on line 17
+[12-Jun-2025 22:11:05 Asia/Manila] PHP Warning:  mysqli::query(): Empty query in /home/noornet/event.noor-united.net/event/admin/event/index.php on line 17
+[12-Jun-2025 22:11:05 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/event/index.php:56
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/admin/index.php(39): include()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/event/index.php on line 56
+[12-Jun-2025 22:45:28 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[12-Jun-2025 22:45:28 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[12-Jun-2025 22:45:28 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[12-Jun-2025 22:45:28 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[12-Jun-2025 22:45:28 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[12-Jun-2025 22:45:28 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[12-Jun-2025 22:45:28 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[12-Jun-2025 22:45:28 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[12-Jun-2025 22:45:28 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 74
+[12-Jun-2025 22:45:28 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 74
+[12-Jun-2025 22:45:50 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/audience/index.php:37
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/admin/index.php(39): include()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/audience/index.php on line 37
+[12-Jun-2025 22:46:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/audience/index.php:37
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/admin/index.php(39): include()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/audience/index.php on line 37
+[12-Jun-2025 22:53:46 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[12-Jun-2025 22:53:46 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[12-Jun-2025 22:53:46 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[12-Jun-2025 22:53:46 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[12-Jun-2025 22:53:46 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[12-Jun-2025 22:53:46 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[12-Jun-2025 22:53:46 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[12-Jun-2025 22:53:46 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[12-Jun-2025 22:53:46 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[12-Jun-2025 22:53:46 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[12-Jun-2025 23:24:44 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[12-Jun-2025 23:24:44 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[12-Jun-2025 23:24:44 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[12-Jun-2025 23:24:44 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[12-Jun-2025 23:24:44 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[12-Jun-2025 23:24:44 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[12-Jun-2025 23:24:44 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[12-Jun-2025 23:24:44 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[12-Jun-2025 23:24:44 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[12-Jun-2025 23:24:44 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[13-Jun-2025 01:02:24 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[13-Jun-2025 01:02:24 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[13-Jun-2025 01:02:24 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[13-Jun-2025 01:02:24 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[13-Jun-2025 01:02:24 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[13-Jun-2025 01:02:24 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[13-Jun-2025 01:02:24 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[13-Jun-2025 01:02:24 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[13-Jun-2025 01:02:24 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[13-Jun-2025 01:02:24 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[23-Jun-2025 23:51:31 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[23-Jun-2025 23:51:31 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[23-Jun-2025 23:51:31 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[23-Jun-2025 23:51:31 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[23-Jun-2025 23:51:31 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[23-Jun-2025 23:51:31 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[23-Jun-2025 23:51:31 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[23-Jun-2025 23:51:31 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[23-Jun-2025 23:51:31 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[23-Jun-2025 23:51:31 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[23-Jun-2025 23:51:36 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[23-Jun-2025 23:51:36 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[23-Jun-2025 23:51:36 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[23-Jun-2025 23:51:36 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[23-Jun-2025 23:51:36 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[23-Jun-2025 23:51:36 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[23-Jun-2025 23:51:36 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[23-Jun-2025 23:51:36 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[23-Jun-2025 23:51:36 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[23-Jun-2025 23:51:36 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[23-Jun-2025 23:52:24 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[23-Jun-2025 23:52:24 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[23-Jun-2025 23:52:24 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[23-Jun-2025 23:52:24 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[23-Jun-2025 23:52:24 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[23-Jun-2025 23:52:24 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[23-Jun-2025 23:52:24 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[23-Jun-2025 23:52:24 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[23-Jun-2025 23:52:24 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[23-Jun-2025 23:52:24 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[23-Jun-2025 23:52:45 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[23-Jun-2025 23:52:45 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/topBarNav.php on line 39
+[23-Jun-2025 23:52:45 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[23-Jun-2025 23:52:45 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 3
+[23-Jun-2025 23:52:45 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[23-Jun-2025 23:52:45 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 21
+[23-Jun-2025 23:52:45 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[23-Jun-2025 23:52:45 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 35
+[23-Jun-2025 23:52:45 Asia/Manila] PHP Notice:  Undefined index: userdata in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65
+[23-Jun-2025 23:52:45 Asia/Manila] PHP Notice:  Trying to access array offset on value of type null in /home/noornet/event.noor-united.net/event/admin/inc/navigation.php on line 65

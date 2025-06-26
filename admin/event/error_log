@@ -1,0 +1,182 @@
+[24-May-2025 19:04:03 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 5
+[24-May-2025 19:04:03 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 20
+[24-May-2025 19:04:03 Asia/Manila] PHP Notice:  Undefined variable: title in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 26
+[24-May-2025 19:04:03 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 30
+[24-May-2025 19:05:23 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/noornet/event.noor-united.net/event/admin/event/view.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 6
+[24-May-2025 19:05:34 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/noornet/event.noor-united.net/event/admin/event/view.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 6
+[24-May-2025 19:06:13 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 31
+[24-May-2025 19:07:09 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 30
+[24-May-2025 19:07:27 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 30
+[24-May-2025 19:24:40 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 30
+[24-May-2025 20:35:27 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 30
+[24-May-2025 20:35:39 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 30
+[24-May-2025 22:04:50 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 30
+[24-May-2025 22:17:07 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 30
+[24-May-2025 23:06:25 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 30
+[24-May-2025 23:13:25 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 45
+[24-May-2025 23:13:25 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 45
+[24-May-2025 23:13:25 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 45
+[24-May-2025 23:13:25 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 45
+[24-May-2025 23:14:15 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 45
+[24-May-2025 23:14:15 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 45
+[24-May-2025 23:14:15 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 45
+[24-May-2025 23:14:15 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 45
+[24-May-2025 23:16:26 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 35
+[24-May-2025 23:17:37 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 30
+[24-May-2025 23:18:40 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 30
+[24-May-2025 23:18:54 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 35
+[25-May-2025 15:46:30 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 35
+[26-May-2025 17:01:22 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 35
+[26-May-2025 18:10:46 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 35
+[26-May-2025 18:40:26 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 35
+[26-May-2025 18:57:06 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 35
+[26-May-2025 18:59:44 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[26-May-2025 20:25:19 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[26-May-2025 20:28:10 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[26-May-2025 20:30:22 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[26-May-2025 21:40:38 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 30
+[26-May-2025 21:41:45 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[26-May-2025 23:03:11 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[26-May-2025 23:03:54 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[26-May-2025 23:07:17 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[26-May-2025 23:08:33 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[26-May-2025 23:10:02 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[26-May-2025 23:11:50 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[26-May-2025 23:27:04 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[26-May-2025 23:30:34 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 05:37:49 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[04-Jun-2025 21:48:18 UTC] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 2
+[04-Jun-2025 21:48:18 UTC] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 2
+[04-Jun-2025 21:48:30 UTC] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 2
+[04-Jun-2025 21:48:30 UTC] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 2
+[04-Jun-2025 21:49:31 UTC] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 2
+[04-Jun-2025 21:49:31 UTC] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 2
+[04-Jun-2025 21:49:37 UTC] PHP Warning:  require_once(../config.php): failed to open stream: No such file or directory in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 2
+[04-Jun-2025 21:49:37 UTC] PHP Fatal error:  require_once(): Failed opening required '../config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 2
+[05-Jun-2025 05:50:43 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 4
+[05-Jun-2025 05:50:43 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 6
+[05-Jun-2025 05:54:47 Asia/Manila] PHP Notice:  Undefined variable: https://event.noor-united.net/temp/33e75ff09dd601bbe69f351039152189.png in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 72
+[05-Jun-2025 05:54:51 Asia/Manila] PHP Notice:  Undefined variable: https://event.noor-united.net/temp/33e75ff09dd601bbe69f351039152189.png in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 72
+[05-Jun-2025 06:16:23 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 06:18:24 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 06:19:39 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 06:28:39 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 06:29:51 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 06:32:29 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 06:38:28 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 06:40:22 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 06:42:27 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 06:44:15 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 06:46:13 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 06:49:46 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 15:03:02 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 15:05:32 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 15:10:54 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 15:11:39 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 15:48:28 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 15:50:20 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 15:52:21 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 15:53:22 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 16:16:14 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 16:24:54 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[05-Jun-2025 16:29:09 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[06-Jun-2025 01:28:49 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 7
+[06-Jun-2025 01:29:03 Asia/Manila] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 7
+[05-Jun-2025 17:30:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 7
+[06-Jun-2025 01:33:52 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/noornet/event.noor-united.net/event/admin/event/show.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 18
+[06-Jun-2025 01:33:55 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/noornet/event.noor-united.net/event/admin/event/show.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 18
+[06-Jun-2025 01:34:01 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/noornet/event.noor-united.net/event/admin/event/show.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 18
+[06-Jun-2025 01:36:44 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/noornet/event.noor-united.net/event/admin/event/show.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 18
+[06-Jun-2025 01:39:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/noornet/event.noor-united.net/event/admin/event/show.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 18
+[11-Jun-2025 16:24:37 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 30
+[11-Jun-2025 16:24:41 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[11-Jun-2025 16:26:02 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/event/view.php on line 30
+[11-Jun-2025 16:33:18 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[11-Jun-2025 16:33:41 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[11-Jun-2025 16:41:32 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[11-Jun-2025 17:07:07 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[11-Jun-2025 17:13:55 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[12-Jun-2025 17:15:13 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[12-Jun-2025 17:16:34 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[12-Jun-2025 17:21:21 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[12-Jun-2025 17:21:21 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/event/manage.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 52
+[12-Jun-2025 17:21:26 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[12-Jun-2025 17:21:26 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/event/manage.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 52
+[12-Jun-2025 09:22:58 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 64
+[12-Jun-2025 09:23:22 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 64
+[12-Jun-2025 09:23:26 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 64
+[12-Jun-2025 17:26:08 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[12-Jun-2025 17:54:15 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[12-Jun-2025 18:09:58 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[12-Jun-2025 18:11:33 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[12-Jun-2025 18:14:18 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[12-Jun-2025 18:32:06 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[12-Jun-2025 18:39:03 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[12-Jun-2025 18:41:42 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 37
+[12-Jun-2025 18:51:51 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 42
+[12-Jun-2025 18:53:22 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 42
+[12-Jun-2025 18:57:32 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 18:58:26 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 19:00:51 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 19:01:46 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 19:07:18 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 19:13:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function pritn_r() in /home/noornet/event.noor-united.net/event/admin/event/show.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/event/show.php on line 20
+[12-Jun-2025 19:19:39 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 19:37:40 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 19:37:58 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 19:45:52 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 19:47:04 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 19:47:51 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 19:48:57 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 22:33:17 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 22:33:17 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/event/manage.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 63
+[12-Jun-2025 22:34:10 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 22:34:10 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/event/manage.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 63
+[12-Jun-2025 22:35:46 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 22:35:46 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/admin/event/manage.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 63
+[12-Jun-2025 22:36:21 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 22:37:01 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 22:55:05 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[12-Jun-2025 22:57:49 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[13-Jun-2025 01:06:02 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[13-Jun-2025 01:08:43 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48
+[13-Jun-2025 01:10:17 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/admin/event/manage.php on line 48

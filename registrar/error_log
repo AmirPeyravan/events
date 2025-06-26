@@ -1,0 +1,13 @@
+[24-May-2025 17:07:01 Asia/Manila] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/noornet/event.noor-united.net/event/registrar/home.php:30
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/registrar/index.php(23): include()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/registrar/home.php on line 30
+[24-May-2025 19:08:14 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/registrar/registration.php on line 4
+[24-May-2025 19:08:14 Asia/Manila] PHP Notice:  Undefined variable: title in /home/noornet/event.noor-united.net/event/registrar/registration.php on line 27
+[24-May-2025 19:08:14 Asia/Manila] PHP Notice:  Undefined variable: venue in /home/noornet/event.noor-united.net/event/registrar/registration.php on line 31
+[24-May-2025 19:08:14 Asia/Manila] PHP Notice:  Undefined variable: description in /home/noornet/event.noor-united.net/event/registrar/registration.php on line 35
+[24-May-2025 19:08:14 Asia/Manila] PHP Notice:  Undefined variable: datetime_start in /home/noornet/event.noor-united.net/event/registrar/registration.php on line 41
+[24-May-2025 19:08:14 Asia/Manila] PHP Notice:  Undefined variable: datetime_end in /home/noornet/event.noor-united.net/event/registrar/registration.php on line 45
+[24-May-2025 19:08:14 Asia/Manila] PHP Notice:  Undefined variable: limit_registration in /home/noornet/event.noor-united.net/event/registrar/registration.php on line 48
+[24-May-2025 19:08:14 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/registrar/registration.php on line 127

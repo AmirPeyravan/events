@@ -1,0 +1,770 @@
+[18-May-2025 15:26:37 Asia/Manila] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:26:37 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:26:37 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:31:45 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:31:45 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:31:45 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:33:55 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:33:55 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:33:55 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:35:28 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:35:28 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:35:28 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:35:29 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:35:29 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:35:29 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:07 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:07 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:07 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:07 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:07 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:07 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:07 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:07 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:07 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:08 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:08 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:08 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:08 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:08 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:08 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:08 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:08 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:08 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:09 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:09 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:09 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:09 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:09 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:09 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:09 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:09 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:09 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:10 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:10 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:10 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:10 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:10 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:10 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:10 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:10 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:10 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:11 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:11 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:11 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:11 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:11 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:11 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:11 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:11 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:11 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:11 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:11 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:11 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:12 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:12 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:12 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:12 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:12 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:12 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:12 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:12 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:12 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:15 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:15 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:15 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:15 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:15 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:15 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:15 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:15 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:15 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:16 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:16 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:16 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:16 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:16 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:16 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:16 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:16 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:16 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:17 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:17 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:17 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:17 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:17 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:17 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:17 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:17 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:17 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:19 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:19 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:19 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:30 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:30 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:30 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:31 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:31 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:31 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:36 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:36 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:36 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:37 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:37 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:37 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:51 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:51 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:51 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:51 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:51 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:36:51 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:37:07 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:37:07 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:37:07 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:37:21 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:37:21 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:37:21 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:37:22 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:37:22 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:37:22 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:37:23 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:37:23 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:37:23 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:37:23 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:37:23 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:37:23 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:37:24 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:37:24 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:37:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:37:24 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:37:24 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:37:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:37:24 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:37:24 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:37:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:37:25 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:37:25 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:37:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:37:25 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:37:25 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:37:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:37:25 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:37:25 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:37:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:38:30 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:38:30 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:38:30 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:38:32 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:38:32 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:38:32 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:38:33 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:38:33 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:38:33 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:38:36 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:38:36 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:38:36 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:39:28 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:39:28 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:39:28 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:39:28 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:39:28 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:39:28 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:39:36 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:39:36 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:39:36 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:39:41 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:39:41 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:39:41 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:39:45 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:39:45 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:39:45 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:39:48 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:39:48 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:39:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:39:50 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:39:50 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:39:50 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:40:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:40:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:40:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:40:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:40:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:40:14 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:40:23 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:40:23 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:40:23 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:40:31 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:40:31 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:40:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:41:15 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:15 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:15 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:16 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:16 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:16 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:20 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:20 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:20 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:20 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:20 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:20 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:20 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:20 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:41:20 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:42:31 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:42:31 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:42:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:42:51 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:42:51 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:42:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 15:54:06 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 15:54:06 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 15:54:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:06:07 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:06:07 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:06:07 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:07:17 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:07:17 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:07:17 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:07:54 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:07:54 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:07:54 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:08:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:08:13 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:08:13 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:13:08 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:13:08 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:13:08 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:14:31 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:14:31 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:14:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:14:36 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:14:36 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:14:36 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:20:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:20:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:20:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:20:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:20:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:20:18 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:23:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:23:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:23:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:23:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:23:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:23:46 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:23:52 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:23:52 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:23:52 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:23:55 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:23:55 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:23:55 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:24:19 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:24:19 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:24:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:24:22 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:24:22 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:24:22 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:25:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:25:13 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:25:13 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:25:26 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:25:26 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:25:26 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:25:27 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:25:27 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:25:27 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:25:31 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:25:31 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:25:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:25:34 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:25:34 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:25:34 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:25:58 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:25:58 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:25:58 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(11): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:26:55 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:26:55 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:26:55 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(13): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:28:10 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:28:10 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:28:10 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(16): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:28:19 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:28:29 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:28:54 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:28:55 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:28:55 Asia/Manila] PHP Notice:  Undefined variable: _settings in /home/noornet/event.noor-united.net/event/inc/header.php on line 8
+[18-May-2025 16:28:55 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function info() on null in /home/noornet/event.noor-united.net/event/inc/header.php:8
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/portal.php(4): require_once()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/inc/header.php on line 8
+[18-May-2025 16:29:25 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:29:25 Asia/Manila] PHP Notice:  Undefined variable: _settings in /home/noornet/event.noor-united.net/event/inc/header.php on line 8
+[18-May-2025 16:29:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function info() on null in /home/noornet/event.noor-united.net/event/inc/header.php:8
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/portal.php(4): require_once()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/inc/header.php on line 8
+[18-May-2025 16:30:01 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:30:01 Asia/Manila] PHP Notice:  Undefined variable: _settings in /home/noornet/event.noor-united.net/event/inc/header.php on line 8
+[18-May-2025 16:30:01 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function info() on null in /home/noornet/event.noor-united.net/event/inc/header.php:8
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/portal.php(4): require_once()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/inc/header.php on line 8
+[18-May-2025 16:30:13 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:30:13 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:30:13 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(16): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:31:08 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:31:08 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:31:08 Asia/Manila] PHP Notice:  Undefined variable: _settings in /home/noornet/event.noor-united.net/event/inc/header.php on line 8
+[18-May-2025 16:31:08 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function info() on null in /home/noornet/event.noor-united.net/event/inc/header.php:8
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/portal.php(4): require_once()
+#1 {main}
+  thrown in /home/noornet/event.noor-united.net/event/inc/header.php on line 8
+[18-May-2025 16:31:41 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:31:41 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:31:41 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(16): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:31:43 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:31:43 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:31:43 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(16): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:31:43 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:31:43 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:31:43 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(16): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:31:48 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:31:48 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:31:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(16): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:32:11 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:32:11 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:32:11 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(16): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:32:26 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:32:26 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:32:26 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(16): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:32:28 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:32:28 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:32:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(16): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:32:33 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:32:33 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:32:33 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(16): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/index.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[18-May-2025 16:33:57 Asia/Manila] PHP Warning:  mysqli::__construct(): (HY000/2059): Plugin https could not be loaded: /usr/lib64/mysql/plugin/https.so: cannot open shared object file: No such file or directory in /home/noornet/event.noor-united.net/event/classes/DBConnection.php on line 15
+[18-May-2025 16:33:57 Asia/Manila] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 16
+[18-May-2025 16:33:57 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php:17
+Stack trace:
+#0 /home/noornet/event.noor-united.net/event/classes/SystemSettings.php(126): SystemSettings->load_system_info()
+#1 /home/noornet/event.noor-united.net/event/config.php(16): require_once('/home/noornet/e...')
+#2 /home/noornet/event.noor-united.net/event/portal.php(1): require_once('/home/noornet/e...')
+#3 {main}
+  thrown in /home/noornet/event.noor-united.net/event/classes/SystemSettings.php on line 17
+[22-May-2025 09:27:55 UTC] PHP Notice:  Undefined variable: _settings in /home/noornet/event.noor-united.net/event/event_view.php on line 1
+[22-May-2025 09:27:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function chk_flashdata() on null in /home/noornet/event.noor-united.net/event/event_view.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/event_view.php on line 1
+[22-May-2025 09:27:55 UTC] PHP Notice:  Undefined variable: _settings in /home/noornet/event.noor-united.net/event/event_view.php on line 1
+[22-May-2025 09:27:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function chk_flashdata() on null in /home/noornet/event.noor-united.net/event/event_view.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/event_view.php on line 1
+[22-May-2025 09:27:57 UTC] PHP Notice:  Undefined variable: _settings in /home/noornet/event.noor-united.net/event/event_view.php on line 1
+[22-May-2025 09:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function chk_flashdata() on null in /home/noornet/event.noor-united.net/event/event_view.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/noornet/event.noor-united.net/event/event_view.php on line 1
+[05-Jun-2025 16:17:53 Asia/Manila] PHP Notice:  Undefined variable: title in /home/noornet/event.noor-united.net/event/decline.php on line 45
+[05-Jun-2025 16:17:53 Asia/Manila] PHP Notice:  Undefined variable: venue in /home/noornet/event.noor-united.net/event/decline.php on line 49
+[05-Jun-2025 16:17:53 Asia/Manila] PHP Notice:  Undefined variable: description in /home/noornet/event.noor-united.net/event/decline.php on line 53
+[05-Jun-2025 16:17:53 Asia/Manila] PHP Notice:  Undefined variable: datetime_start in /home/noornet/event.noor-united.net/event/decline.php on line 59
+[05-Jun-2025 16:17:53 Asia/Manila] PHP Notice:  Undefined variable: datetime_end in /home/noornet/event.noor-united.net/event/decline.php on line 63
+[05-Jun-2025 16:17:53 Asia/Manila] PHP Notice:  Undefined variable: limit_registration in /home/noornet/event.noor-united.net/event/decline.php on line 65
+[05-Jun-2025 16:17:53 Asia/Manila] PHP Notice:  Undefined variable: fullname in /home/noornet/event.noor-united.net/event/decline.php on line 78
+[05-Jun-2025 16:19:44 Asia/Manila] PHP Notice:  Undefined variable: title in /home/noornet/event.noor-united.net/event/decline.php on line 45
+[05-Jun-2025 16:19:44 Asia/Manila] PHP Notice:  Undefined variable: venue in /home/noornet/event.noor-united.net/event/decline.php on line 49
+[05-Jun-2025 16:19:44 Asia/Manila] PHP Notice:  Undefined variable: description in /home/noornet/event.noor-united.net/event/decline.php on line 53
+[05-Jun-2025 16:19:44 Asia/Manila] PHP Notice:  Undefined variable: datetime_start in /home/noornet/event.noor-united.net/event/decline.php on line 59
+[05-Jun-2025 16:19:44 Asia/Manila] PHP Notice:  Undefined variable: datetime_end in /home/noornet/event.noor-united.net/event/decline.php on line 63
+[05-Jun-2025 16:19:44 Asia/Manila] PHP Notice:  Undefined variable: limit_registration in /home/noornet/event.noor-united.net/event/decline.php on line 65
+[05-Jun-2025 16:19:44 Asia/Manila] PHP Notice:  Undefined variable: fullname in /home/noornet/event.noor-united.net/event/decline.php on line 78
+[05-Jun-2025 16:21:44 Asia/Manila] PHP Notice:  Undefined variable: title in /home/noornet/event.noor-united.net/event/decline.php on line 73
+[05-Jun-2025 16:21:44 Asia/Manila] PHP Notice:  Undefined variable: venue in /home/noornet/event.noor-united.net/event/decline.php on line 77
+[05-Jun-2025 16:21:44 Asia/Manila] PHP Notice:  Undefined variable: description in /home/noornet/event.noor-united.net/event/decline.php on line 81
+[05-Jun-2025 16:21:44 Asia/Manila] PHP Notice:  Undefined variable: datetime_start in /home/noornet/event.noor-united.net/event/decline.php on line 87
+[05-Jun-2025 16:21:44 Asia/Manila] PHP Notice:  Undefined variable: datetime_end in /home/noornet/event.noor-united.net/event/decline.php on line 91
+[05-Jun-2025 16:21:44 Asia/Manila] PHP Notice:  Undefined variable: limit_registration in /home/noornet/event.noor-united.net/event/decline.php on line 93
+[05-Jun-2025 16:21:44 Asia/Manila] PHP Notice:  Undefined variable: fullname in /home/noornet/event.noor-united.net/event/decline.php on line 104
+[05-Jun-2025 16:21:44 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/decline.php on line 105
+[05-Jun-2025 16:28:36 Asia/Manila] PHP Notice:  Undefined variable: title in /home/noornet/event.noor-united.net/event/decline.php on line 73
+[05-Jun-2025 16:28:36 Asia/Manila] PHP Notice:  Undefined variable: venue in /home/noornet/event.noor-united.net/event/decline.php on line 77
+[05-Jun-2025 16:28:36 Asia/Manila] PHP Notice:  Undefined variable: description in /home/noornet/event.noor-united.net/event/decline.php on line 81
+[05-Jun-2025 16:28:36 Asia/Manila] PHP Notice:  Undefined variable: datetime_start in /home/noornet/event.noor-united.net/event/decline.php on line 87
+[05-Jun-2025 16:28:36 Asia/Manila] PHP Notice:  Undefined variable: datetime_end in /home/noornet/event.noor-united.net/event/decline.php on line 91
+[05-Jun-2025 16:28:36 Asia/Manila] PHP Notice:  Undefined variable: limit_registration in /home/noornet/event.noor-united.net/event/decline.php on line 93
+[05-Jun-2025 16:28:36 Asia/Manila] PHP Notice:  Undefined variable: fullname in /home/noornet/event.noor-united.net/event/decline.php on line 104
+[05-Jun-2025 16:28:36 Asia/Manila] PHP Notice:  Undefined variable: user_id in /home/noornet/event.noor-united.net/event/decline.php on line 105

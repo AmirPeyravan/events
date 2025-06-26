@@ -1,0 +1,17 @@
+[22-May-2025 08:14:34 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/noornet/event.noor-united.net/event/admin/audience/manage.php on line 35
+[24-May-2025 18:40:22 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 5
+[24-May-2025 18:40:22 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 20
+[24-May-2025 18:40:22 Asia/Manila] PHP Notice:  Undefined variable: title in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 26
+[24-May-2025 18:40:22 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 30
+[24-May-2025 18:40:28 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 5
+[24-May-2025 18:40:28 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 20
+[24-May-2025 18:40:28 Asia/Manila] PHP Notice:  Undefined variable: title in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 26
+[24-May-2025 18:40:28 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 30
+[24-May-2025 18:59:01 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 5
+[24-May-2025 18:59:01 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 20
+[24-May-2025 18:59:01 Asia/Manila] PHP Notice:  Undefined variable: title in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 26
+[24-May-2025 18:59:01 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 30
+[24-May-2025 19:00:52 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 5
+[24-May-2025 19:00:52 Asia/Manila] PHP Notice:  Undefined variable: id in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 20
+[24-May-2025 19:00:52 Asia/Manila] PHP Notice:  Undefined variable: title in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 26
+[24-May-2025 19:00:52 Asia/Manila] PHP Notice:  Undefined variable: name in /home/noornet/event.noor-united.net/event/admin/audience/view.php on line 30
