@@ -2,8 +2,8 @@
 class DBConnection{
 
     private $host = 'localhost';
-    private $username = 'noornet_event_user';
-    private $password = '^_Si#&-]OxUW';
+    private $username = 'root';
+    private $password = 'root';
     private $database = 'noornet_event_db';
     
     public $conn;

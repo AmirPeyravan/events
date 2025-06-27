@@ -14,7 +14,7 @@ Class Master extends DBConnection {
 	public function save_event(){
 	    
 		$data ="";
-		$user_ids;
+		// $user_ids;
 		
 		foreach($_POST as $k =>$v){
 			$_POST[$k] = addslashes($v);
@@ -129,7 +129,7 @@ Class Master extends DBConnection {
         $event_date = date("l, d F Y", strtotime($event['datetime_start']));
         $event_location ="Location: https://www.google.com/maps/search/?api=1&query={$event['venue']}";
         $event_show = "https://event.noor-united.net/admin/event/show.php?id={$event_hash}";
-        $decline_link ;
+        // $decline_link ;
         
         $body = 
             "📅 *{$event_date}*\n" .
