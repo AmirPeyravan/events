@@ -64,7 +64,7 @@ if(isset($_GET['id']) && !empty($_GET['id'])){
 <body>
     <div class="card">
         <h2><?php echo $event_title; ?></h2>
-        <p><?php echo nl2br($event_description); ?></p>
+        <p><?php echo nl2br($event_description ?? ''); ?></p>
 
         <div class="details">
             <p><strong>Start:</strong> <?php echo $datetime_start; ?></p>

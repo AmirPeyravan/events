@@ -82,6 +82,8 @@ if (isset($_GET['id']) && !empty($_GET['id'])) {
 		<input type="number" min="0" class="form-control form-control-sm" name="limit_time" id="limit_time" value="<?php echo isset($limit_time) ? $limit_time : '' ?>">
 	</div>
 </form>
+
+
 <script>
 	function displayImg(input, _this) {
 		if (input.files && input.files[0]) {
@@ -156,7 +158,7 @@ if (isset($_GET['id']) && !empty($_GET['id'])) {
 				success: function(resp) {
 					if (resp.status == 'success') {
 						location.reload();
-					} else if (esp.status == 'duplicate') {
+					} else if (resp.status == 'duplicate') {
 						var _frm = $('#event-frm #msg')
 						var _msg = "<div class='alert alert-danger text-white err_msg'><i class='fa fa-exclamation-triangle'></i> Title already exists.</div>"
 						_frm.prepend(_msg)

@@ -12,6 +12,12 @@ class Login extends DBConnection
         
         parent::__construct();
         ini_set('display_errors', 1);
+        
+        // بررسی اتصال به دیتابیس
+        if (!$this->conn) {
+            error_log("Database connection failed");
+            die("Database connection error");
+        }
     }
     
     public function __destruct()
@@ -26,7 +32,18 @@ class Login extends DBConnection
     
     public function login()
     {
-        extract($_POST);
+        // بررسی وجود POST data
+        if (empty($_POST)) {
+            return json_encode(array('status' => 'error', 'message' => 'No data received'));
+        }
+        
+        // لاگ کردن داده‌های ورودی برای دیباگ
+        error_log("Login attempt: " . json_encode($_POST));
+        
+        // استخراج متغیرها با بررسی وجود
+        $username = isset($_POST['username']) ? trim($_POST['username']) : '';
+        $password = isset($_POST['password']) ? trim($_POST['password']) : '';
+        $manager = isset($_POST['manager']) ? $_POST['manager'] : false;
         
         // Input validation
         if (empty($username) || empty($password)) {
@@ -37,42 +54,72 @@ class Login extends DBConnection
         $username = $this->conn->real_escape_string($username);
         $password = $this->conn->real_escape_string($password);
         
-        if (isset($manager) && $manager) {
-            $qry = $this->conn->query("SELECT * FROM users WHERE username = '$username' AND password = MD5('$password') AND `type` = 0");
-            
-            if ($qry && $qry->num_rows > 0) {
-                $user_data = $qry->fetch_array();
-                foreach ($user_data as $k => $v) {
-                    if (!is_numeric($k) && $k != 'password') {
-                        $this->settings->set_userdata($k, $v);
+        try {
+            if ($manager) {
+                // لاگین مدیر
+                $sql = "SELECT * FROM users WHERE username = '$username' AND password = MD5('$password') AND `type` = 0";
+                $qry = $this->conn->query($sql);
+                
+                // لاگ کردن کوئری برای دیباگ
+                error_log("Manager login query: " . $sql);
+                
+                if ($qry && $qry->num_rows > 0) {
+                    $user_data = $qry->fetch_array();
+                    
+                    // تنظیم session data
+                    foreach ($user_data as $k => $v) {
+                        if (!is_numeric($k) && $k != 'password') {
+                            $this->settings->set_userdata($k, $v);
+                        }
                     }
+                    $this->settings->set_userdata('login_type', 'event_manager');
+                    
+                    error_log("Manager login successful for user: " . $username);
+                    return json_encode(array('status' => 'success', 'redirect' => 'admin/'));
+                } else {
+                    error_log("Manager login failed for user: " . $username);
+                    return json_encode(array('status' => 'incorrect', 'message' => 'Invalid credentials'));
                 }
-                $this->settings->set_userdata('login_type', 'event_manager');
-                return json_encode(array('status' => 'success'));
             } else {
-                return json_encode(array('status' => 'incorrect', 'message' => 'Invalid credentials'));
-            }
-        } else {
-            $qry = $this->conn->query("SELECT * FROM users WHERE username = '$username' AND password = MD5('$password') AND `type` = 1");
-            
-            if ($qry && $qry->num_rows > 0) {
-                $user_data = $qry->fetch_array();
-                foreach ($user_data as $k => $v) {
-                    if (!is_numeric($k) && $k != 'password') {
-                        $this->settings->set_userdata($k, $v);
+                // لاگین کاربر عادی
+                $sql = "SELECT * FROM users WHERE username = '$username' AND password = MD5('$password') AND `type` = 1";
+                $qry = $this->conn->query($sql);
+                
+                // لاگ کردن کوئری برای دیباگ
+                error_log("User login query: " . $sql);
+                
+                if ($qry && $qry->num_rows > 0) {
+                    $user_data = $qry->fetch_array();
+                    
+                    // تنظیم session data
+                    foreach ($user_data as $k => $v) {
+                        if (!is_numeric($k) && $k != 'password') {
+                            $this->settings->set_userdata($k, $v);
+                        }
                     }
+                    $this->settings->set_userdata('login_type', 1);
+                    
+                    error_log("User login successful for user: " . $username);
+                    return json_encode(array('status' => 'success', 'redirect' => 'dashboard/'));
+                } else {
+                    error_log("User login failed for user: " . $username);
+                    return json_encode(array('status' => 'incorrect', 'message' => 'Invalid credentials'));
                 }
-                $this->settings->set_userdata('login_type', 1);
-                return json_encode(array('status' => 'success'));
-            } else {
-                return json_encode(array('status' => 'incorrect', 'message' => 'Invalid credentials'));
             }
+        } catch (Exception $e) {
+            error_log("Login error: " . $e->getMessage());
+            return json_encode(array('status' => 'error', 'message' => 'Login failed due to system error'));
         }
     }
     
     public function elogin()
     {
-        extract($_POST);
+        // بررسی وجود POST data
+        if (empty($_POST)) {
+            return json_encode(array('status' => 'error', 'message' => 'No data received'));
+        }
+        
+        $code = isset($_POST['code']) ? trim($_POST['code']) : '';
         
         // Input validation
         if (empty($code)) {
@@ -82,25 +129,41 @@ class Login extends DBConnection
         // Escape input to prevent SQL injection
         $code = $this->conn->real_escape_string($code);
         
-        $qry = $this->conn->query("SELECT * FROM establishment WHERE code = '$code'");
-        
-        if ($qry && $qry->num_rows > 0) {
-            $establishment_data = $qry->fetch_array();
-            foreach ($establishment_data as $k => $v) {
-                if (!is_numeric($k)) {
-                    $this->settings->set_userdata($k, $v);
+        try {
+            $sql = "SELECT * FROM establishment WHERE code = '$code'";
+            $qry = $this->conn->query($sql);
+            
+            error_log("Establishment login query: " . $sql);
+            
+            if ($qry && $qry->num_rows > 0) {
+                $establishment_data = $qry->fetch_array();
+                foreach ($establishment_data as $k => $v) {
+                    if (!is_numeric($k)) {
+                        $this->settings->set_userdata($k, $v);
+                    }
                 }
+                $this->settings->set_userdata('login_type', 2);
+                
+                error_log("Establishment login successful for code: " . $code);
+                return json_encode(array('status' => 'success', 'redirect' => 'establishment/'));
+            } else {
+                error_log("Establishment login failed for code: " . $code);
+                return json_encode(array('status' => 'incorrect', 'message' => 'Invalid code'));
             }
-            $this->settings->set_userdata('login_type', 2);
-            return json_encode(array('status' => 'success'));
-        } else {
-            return json_encode(array('status' => 'incorrect', 'message' => 'Invalid code'));
+        } catch (Exception $e) {
+            error_log("Establishment login error: " . $e->getMessage());
+            return json_encode(array('status' => 'error', 'message' => 'Login failed due to system error'));
         }
     }
     
     public function rlogin()
     {
-        extract($_POST);
+        // بررسی وجود POST data
+        if (empty($_POST)) {
+            return json_encode(array('status' => 'error', 'message' => 'No data received'));
+        }
+        
+        $username = isset($_POST['username']) ? trim($_POST['username']) : '';
         
         // Input validation
         if (empty($username)) {
@@ -110,55 +173,84 @@ class Login extends DBConnection
         // Escape input to prevent SQL injection
         $username = $this->conn->real_escape_string($username);
         
-        // First try users table
-        $qry = $this->conn->query("SELECT * FROM users WHERE username = '$username'");
-        
-        if ($qry && $qry->num_rows > 0) {
-            $user_data = $qry->fetch_array();
-            foreach ($user_data as $k => $v) {
-                if (!is_numeric($k)) {
-                    $this->settings->set_userdata($k, $v);
-                }
-            }
-            $this->settings->set_userdata('login_type', 2);
-            return json_encode(array('status' => 'success'));
-        } else {
-            // Try event_audience table
-            $qry = $this->conn->query("SELECT * FROM event_audience WHERE contact = '$username'");
+        try {
+            // First try users table
+            $sql = "SELECT * FROM users WHERE username = '$username'";
+            $qry = $this->conn->query($sql);
+            
+            error_log("Remote login query (users): " . $sql);
             
             if ($qry && $qry->num_rows > 0) {
-                $audience_data = $qry->fetch_array();
-                foreach ($audience_data as $k => $v) {
+                $user_data = $qry->fetch_array();
+                foreach ($user_data as $k => $v) {
                     if (!is_numeric($k)) {
                         $this->settings->set_userdata($k, $v);
                     }
                 }
                 $this->settings->set_userdata('login_type', 2);
-                return json_encode(array('status' => 'success'));
+                
+                error_log("Remote login successful (users) for: " . $username);
+                return json_encode(array('status' => 'success', 'redirect' => 'portal/'));
             } else {
-                return json_encode(array('status' => 'incorrect', 'message' => 'User not found'));
+                // Try event_audience table
+                $sql = "SELECT * FROM event_audience WHERE contact = '$username'";
+                $qry = $this->conn->query($sql);
+                
+                error_log("Remote login query (audience): " . $sql);
+                
+                if ($qry && $qry->num_rows > 0) {
+                    $audience_data = $qry->fetch_array();
+                    foreach ($audience_data as $k => $v) {
+                        if (!is_numeric($k)) {
+                            $this->settings->set_userdata($k, $v);
+                        }
+                    }
+                    $this->settings->set_userdata('login_type', 2);
+                    
+                    error_log("Remote login successful (audience) for: " . $username);
+                    return json_encode(array('status' => 'success', 'redirect' => 'portal/'));
+                } else {
+                    error_log("Remote login failed for: " . $username);
+                    return json_encode(array('status' => 'incorrect', 'message' => 'User not found'));
+                }
             }
+        } catch (Exception $e) {
+            error_log("Remote login error: " . $e->getMessage());
+            return json_encode(array('status' => 'error', 'message' => 'Login failed due to system error'));
         }
     }
     
     public function logout()
     {
         if ($this->settings->sess_des()) {
-            redirect('admin/login.php');
+            return json_encode(array('status' => 'success', 'redirect' => 'admin/login.php'));
         }
+        return json_encode(array('status' => 'error', 'message' => 'Logout failed'));
     }
     
     public function rlogout()
     {
         if ($this->settings->sess_des()) {
-            redirect('portal.php');
+            return json_encode(array('status' => 'success', 'redirect' => 'portal.php'));
         }
+        return json_encode(array('status' => 'error', 'message' => 'Logout failed'));
     }
     
     public function elogout()
     {
         if ($this->settings->sess_des()) {
-            redirect('portal.php');
+            return json_encode(array('status' => 'success', 'redirect' => 'portal.php'));
+        }
+        return json_encode(array('status' => 'error', 'message' => 'Logout failed'));
+    }
+    
+    // متد کمکی برای تست اتصال
+    public function test_connection()
+    {
+        if ($this->conn) {
+            return json_encode(array('status' => 'success', 'message' => 'Database connected'));
+        } else {
+            return json_encode(array('status' => 'error', 'message' => 'Database connection failed'));
         }
     }
 }
@@ -185,6 +277,9 @@ switch ($action) {
         break;
     case 'rlogout':
         echo $auth->rlogout();
+        break;
+    case 'test':
+        echo $auth->test_connection();
         break;
     default:
         echo $auth->index();

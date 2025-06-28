@@ -6,9 +6,9 @@ session_start();
 
 
 $dev_data = array('id' => '-1', 'firstname' => 'Developer', 'lastname' => '', 'username' => 'dev_oretnom', 'password' => '5da283a2d990e8d8512cf967df5bc0d0', 'last_login' => '', 'date_updated' => '', 'date_added' => '');
-if(!defined('base_url')) define('base_url','https://event.noor-united.net/');
+// if(!defined('base_url')) define('base_url','https://event.noor-united.net/');
 
-// if(!defined('base_url')) define('base_url','http://localhost:5000');
+define('base_url','http://localhost:5000/');
 
 
 
@@ -21,11 +21,11 @@ require_once('classes/SystemSettings.php');
 $db = new DBConnection;
 $conn = $db->conn;
 
-// function redirect($url = '')
-// {
-//     if (!empty($url))
-//         echo '<script>location.href="' . base_url . $url . '"</script>';
-// }
+function redirect($url = '')
+{
+    if (!empty($url))
+        echo '<script>location.href="' . base_url . $url . '"</script>';
+}
 function validate_image($file)
 {
     if (!empty($file)) {
