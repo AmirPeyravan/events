@@ -53,7 +53,7 @@
 
     <div id="msg"></div>
     <div class="help-block text-center">
-      <a href="<?php echo base_url . 'admin' ?>">Login as Admin</a>
+      <a href="<?php echo base_url . 'admin/login.php' ?>">Login as Admin</a>
 
     </div>
   </div>

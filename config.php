@@ -21,11 +21,13 @@ require_once('classes/SystemSettings.php');
 $db = new DBConnection;
 $conn = $db->conn;
 
-function redirect($url = '')
-{
-    if (!empty($url))
-        echo '<script>location.href="' . base_url . $url . '"</script>';
-}
+// function redirect($url = '') {
+//     if (empty($url)) {
+//         $url = base_url;
+//     }
+//     header("Location: " . $url);
+//     exit();
+// }
 function validate_image($file)
 {
     if (!empty($file)) {

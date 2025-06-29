@@ -1,3 +1,16 @@
+<script>
+// در ابتدای فایل
+require_once('../../config.php');
+	// اضافه کردن این کد در ابتدای فایل برای دیباگ
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
+// بررسی اتصال دیتابیس
+if (!isset($conn)) {
+    die("Database connection failed");
+}
+</script>
+
 <?php
 require_once('../../config.php');
 if (isset($_GET['id']) && !empty($_GET['id'])) {
@@ -83,7 +96,11 @@ if (isset($_GET['id']) && !empty($_GET['id'])) {
 	</div>
 </form>
 
-
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Select2 -->
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>	
 <script>
 	function displayImg(input, _this) {
 		if (input.files && input.files[0]) {
