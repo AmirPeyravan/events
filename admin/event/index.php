@@ -182,12 +182,14 @@ if ($_settings->chk_flashdata('success')): ?>
                                                         </td>
                                                         <td class="text-center">
                                                             <div class="btn-group" role="group">
-                                                                <a href="javascript:void(0)"
-                                                                    data-id='<?php echo $row['id'] ?>'
-                                                                    class="btn btn-sm btn-success send_whatsapp"
-                                                                    title="Send WhatsApp Invitation">
+
+                                                                <a href="<?php echo 'http://localhost:5000/admin/event/send_whatsapp.php?user_id=' . $row['user_id']; ?>"
+                                                                    onclick="return confirmSendWhatsApp();"
+                                                                    class="btn btn-sm btn-success"
+                                                                    title="ارسال دعوت در واتساپ">
                                                                     <i class="fab fa-whatsapp"></i>
                                                                 </a>
+
                                                                 <a href="javascript:void(0)"
                                                                     data-id='<?php echo $row['id'] ?>'
                                                                     class="btn btn-sm btn-warning manage_event"
@@ -420,38 +422,40 @@ if ($_settings->chk_flashdata('success')): ?>
 
 
 
-        // ارسال دعوت واتساپ
-$(document).on('click', '.send_whatsapp', function(e) {
-    e.preventDefault();
-    var eventId = $(this).attr('data-id');
+        var _base_url_ = "http://localhost:5000"; // مسیر پروژه شما
 
-    // می‌تونید تاییدیه نمایش بدید
-    if(confirm("آیا مطمئنید که می‌خواهید دعوت واتساپ ارسال شود؟")) {
-        start_loader();
+        $(document).on('click', '.send_whatsapp', function(e) {
+            e.preventDefault();
+            var eventId = $(this).attr('data-id');
 
-        $.ajax({
-            url: _base_url_ + 'send_whatsapp.php', // مسیر صفحه ارسال پیام واتساپ
-            method: 'POST',
-            data: { id: eventId },
-            dataType: 'json',
-            success: function(resp) {
-                end_loader();
-                if(resp.status == 'success') {
-                    alert_toast("دعوت با موفقیت ارسال شد!", 'success');
-                } else {
-                    alert_toast("ارسال دعوت موفق نبود: " + (resp.message || 'خطا'), 'error');
-                }
-            },
-            error: function() {
-                end_loader();
-                alert_toast("خطا در ارتباط با سرور.", 'error');
+            if (confirm("آیا مطمئنید که می‌خواهید دعوت واتساپ ارسال شود؟")) {
+                start_loader();
+
+                $.ajax({
+                    url: _base_url_ + '/admin/event/send_whatsapp.php',
+                    method: 'POST',
+                    data: {
+                        id: eventId
+                    },
+                    dataType: 'json',
+                    success: function(resp) {
+                        end_loader();
+                        console.log('Response:', resp);
+                        if (resp.status === 'success') {
+                            alert_toast(resp.message, 'success');
+                        } else {
+                            alert_toast(resp.message, 'error');
+                        }
+                    },
+                    error: function(xhr, status, error) {
+                        end_loader();
+                        console.error('خطای Ajax:', xhr.responseText);
+                        alert_toast("خطا در ارتباط با سرور", 'error');
+                    }
+                });
             }
         });
-    }
-});
-
     </script>
-
 </body>
 
 </html>
